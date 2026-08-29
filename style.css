@@ -1,0 +1,60 @@
+body{
+  font-family: "Baloo Tamma 2","Noto Serif Kannada","Padyakke Expanded One" , sans-serif;
+}
+h1 {
+  text-align: center;
+  color: #ad8200;
+  margin: 200px;
+  font-size: 58px;
+  margin-bottom: 100px;
+}
+
+.img{
+  display: flex;  
+  justify-content: space-around;
+  justify-items: center;
+  margin-top: 0.1 px;
+  margin-left: 10px;
+  margin-right: 70px;
+}
+
+#i1, #i2{
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+  padding: 20px;
+  display: flex;  
+  justify-content: center;
+  align-content: center;
+  gap: 20px;
+}
+
+
+#i1 img, #i2 img{
+  width: 800px;
+  height: 600px;
+}
+
+h3{
+  margin-top: 400px;
+  margin-left: 30px;
+  text-align: left;
+  font-family: "Tiro Kannada";
+  font-size: 45px;
+  color: #6b5403;
+}
+
+p{
+  margin-top: 40px;
+  margin-left: 35px;
+  font-size: 40px;
+  color: #6b5403;
+  font-family: "Benne"
+}
+
+audio{
+  margin-left: 30px;
+  width: 500px;
+  max-height: 800px;
+  margin-bottom: 100px;
+}
